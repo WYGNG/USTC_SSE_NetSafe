@@ -1,0 +1,9 @@
+1. 互联网发展过程中的3个要素是New protocols，New technologies和More and more multimedia applications，也是我们认识、评估一个网络的三个角度。结合所学知识和生活中的经历，试分析 今年来移动互联网发展中这三个要素有哪些具体表现。
+
+
+2. 网络协议包含3个key elements，分别是Syntax 语法、Semantics 语义 、Timing 时序，试分析 纸质邮件通信中这三个部分的实例分别是什么。
+
+3. 阅读《Advanced_Network2019@SSE_Paper_reading01_endtoend》，用自己的话，分中英文两个版本写出论文评论。
+
+截止时间：2019年9月17日 23:59:00
+提交方式：教辅系统课程作业入口
